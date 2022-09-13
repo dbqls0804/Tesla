@@ -1,5 +1,5 @@
 #fullpage.no-scroll {
-  overflow-y: hidden;
+  overflow-y: scroll;
   max-height: 100vh;
 }
 
@@ -32,7 +32,7 @@
 
 .section_content {
   position: absolute;
-  top: 20%;
+  top: 15%;
   left: 50%;
   transform: translateX(-50%);
   width: 100%;
@@ -69,7 +69,7 @@
   position: absolute;
   bottom: 15%;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translate(-50%, 80%);
   width: 100%;
   text-align: center;
   display: flex;
@@ -90,6 +90,11 @@
 .action_btn_primary {
   background: rgba(23, 26, 42, 0.8);
   color: white;
+}
+
+
+.action_btn_primary.my {
+  margin-bottom: 30%;
 }
 
 .action_btn_secondary {

@@ -6,8 +6,8 @@
 @media screen and (min-width: 600px) {
 	.section_action_btn {
 		max-width: 30rem;
-		padding: 1.5rem;
-		flex-basis: 40%;
+		padding: 1.2rem;
+		flex-basis: 80%;
 	}
 
 	.section_action_container {
