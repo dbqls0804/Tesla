@@ -17,7 +17,7 @@
 
 @media screen and (min-width: 900px) {
 	.section_action_container {
-		width: 70%;
+		width: 60%;
 	}
 
 	.footer ul {
@@ -39,12 +39,8 @@
 		margin: auto 2rem;
 	}
 
-	.link_in_middle {
-		display: none;
-	}
-
 	.section_action_container {
-		width: 60%;
+		width: 80%;
 	}
 
 	.footer ul {
@@ -58,6 +54,6 @@
 	}
 
 	.section_action_container {
-		width: 50%;
+		width: 35%;
 	}
 }

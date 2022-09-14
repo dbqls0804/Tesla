@@ -41,6 +41,7 @@
   color: var(--primary-color);
 }
 
+
 .section_content_title {
   font-size: 4rem;
   font-weight: bold;
@@ -91,7 +92,6 @@
   background: rgba(23, 26, 42, 0.8);
   color: white;
 }
-
 
 .action_btn_primary.my {
   margin-bottom: 30%;

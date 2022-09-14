@@ -9,7 +9,7 @@
   width: 800px;
   margin: 2rem auto;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   flex-wrap: wrap;
   text-align: center;
 }

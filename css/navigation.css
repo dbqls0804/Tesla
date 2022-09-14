@@ -37,6 +37,10 @@
   text-transform: capitalize;
 }
 
+.link_in_middle {
+  display: none;
+}
+
 .navigation ul li:hover {
   background: #0000000d;
 }
